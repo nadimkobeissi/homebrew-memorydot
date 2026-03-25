@@ -1,6 +1,6 @@
 cask "memorydot" do
   version "1.1"
-  sha256 "b065ce59f6267dd9e997cd4e82364d724ad3b9fa537557fbdd88a006b75a45f1"
+  sha256 "d55a8a3acf4f58faabb9774c397c825e9bf23a04c2966f7db5ba2e7f68f41855"
 
   url "https://github.com/nadimkobeissi/memorydot/releases/download/v#{version}/MemoryDot-#{version}.dmg",
       verified: "github.com/nadimkobeissi/memorydot"
